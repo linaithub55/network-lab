@@ -1,0 +1,4 @@
+rootProject.name = 'chess-network-lab'
+include 'shared'
+include 'server'
+include 'client'

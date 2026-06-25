@@ -1,0 +1,10 @@
+plugins {
+    id 'application'
+}
+application {
+    mainClass = 'chess.client.ChessClient'
+}
+
+run {
+    standardInput = System.in
+}
